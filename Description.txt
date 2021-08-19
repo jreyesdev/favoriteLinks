@@ -1,0 +1,2 @@
+Página creada con NodeJS para el servidor, MYSQL como base de datos,
+y Handlebar como archivos para las vistas HTML.
